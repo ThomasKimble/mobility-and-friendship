@@ -1,8 +1,8 @@
-# mobility_and_friendship
+# Does Mobility Make or Break Friendships?
 
 A study of the effect of Mobility on Friendship using a different models to predict how many friendships Foursquare users will make or break in a 22 month time period.
 
-## mobility_and_friendship
+## Dataset
 * Global-scale Check-in Dataset collected from Foursquare<br>
 * Two snapshots of user friendship networks before and after the check-in data collection period<br>
 * Venue information from Foursquare<br>
