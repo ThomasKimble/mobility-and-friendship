@@ -9,7 +9,6 @@ A study of the effect of Mobility on Friendship using a different models to pred
 
 Dataset can be found <a href=https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view>here</a>. (2.5Gb)
 
-# Run Instructions
-* Add dataset into a *data* file within this repo.
-* Run *preprocessing.ipynb* to get cleaned datasets to also be added into the *data* file.
-* You are ready to run *friendship.ipynb*!
+# Notebooks
+* *preprocessing.ipynb* to get cleaned datasets
+* *friendship.ipynb* for the main project
